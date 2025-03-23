@@ -1,0 +1,2 @@
+nimTitle	submodule	sandbox/submodule.html	module src/sandbox/submodule		0
+nim	plus	sandbox/submodule.html#plus,T,T	proc plus[T](a, b: T): auto		1
